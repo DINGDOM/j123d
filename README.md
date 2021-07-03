@@ -14,19 +14,19 @@
 
 
 
-[自动同步教程](https://github.com/DINGDOM/jd28/blob/master/backUp/tongbu.md)
+[自动同步教程](https://github.com/DINGDOM/j123d/blob/master/backUp/tongbu.md)
 
 
 
 
 
 
-[电脑获取cookie教程](https://github.com/DINGDOM/jd28/blob/master/backUp/GetJdCookie2.md)
+[电脑获取cookie教程](https://github.com/DINGDOM/j123d/blob/master/backUp/GetJdCookie2.md)
 
 
 [手机获取cookie教程](https://github.com/DINGDOM/j123d/blob/master/backUp/GetJdCookie3.md)
 
-lxk0301-环境变量合集（Secrets）配置[点击查看](https://github.com/DINGDOM/jd28/blob/master/githubAction.md)
+lxk0301-环境变量合集（Secrets）配置[点击查看](https://github.com/DINGDOM/j123d/blob/master/githubAction.md)
 
 
 
@@ -40,7 +40,7 @@ lxk0301-环境变量合集（Secrets）配置[点击查看](https://github.com/D
 自动同步教程:
 
 
-一:[点击导入仓库](https://github.com/new/import)，URL框填写https://github.com/DINGDOM/jd28
+一:[点击导入仓库](https://github.com/new/import)，URL框填写https://github.com/DINGDOM/j123d
 Repository Name填写仓库名字，点击绿色按钮，等待导入完成(不要把仓库设为私有，会运行失败)。
 
 
@@ -66,10 +66,10 @@ Repository Name填写仓库名字，点击绿色按钮，等待导入完成(不�
 
 
 
-lxk0301-环境变量合集（Secrets）配置[点击查看](https://github.com/DINGDOM/jd28/blob/master/githubAction.md)
+lxk0301-环境变量合集（Secrets）配置[点击查看](https://github.com/DINGDOM/j123d/blob/master/githubAction.md)
 
 
-[电脑获取cookie教程](https://github.com/DINGDOM/jd28/blob/master/backUp/GetJdCookie2.md)
+[电脑获取cookie教程](https://github.com/DINGDOM/j123d/blob/master/backUp/GetJdCookie2.md)
 
 
-[手机获取cookie教程](https://github.com/DINGDOM/jd28/blob/master/backUp/GetJdCookie3.md)
+[手机获取cookie教程](https://github.com/DINGDOM/j123d/blob/master/backUp/GetJdCookie3.md)
